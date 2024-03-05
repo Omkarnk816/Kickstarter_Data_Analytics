@@ -8,10 +8,7 @@ The Kickstarter raw(file) consists of crowdfunding projects that are posted on K
  -Implemented **filters** and **iferror** function to clean data that helped in replacing the errors with "str_value" to optimize the analysis.
  
  -**Handling Null** by mode values.
- <p align="center">
-  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/0cf2450d-fc4b-40ac-b22f-6079f53270ce" />
-  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/c9c84b99-b7e8-4de5-ad1a-f00a992fcb9f" />
-</p>
+
 
 
    
@@ -26,11 +23,9 @@ The Kickstarter raw(file) consists of crowdfunding projects that are posted on K
  
  -Power Pivot manages **Data modelling** from different sources to make connections using **keys**.
   <p align="center">
-  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/28ac9285-f6b3-4d21-9edd-645b2f90a371" />
-  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/e0c08c2f-af74-4598-9ed5-1cea317786d2" />
+  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/1bdebbb6-1bc8-46f3-96b3-1871a8da83ca" />
 </p>
  
-![Query](https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/28ac9285-f6b3-4d21-9edd-645b2f90a371)  ![DATaMod](https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/e0c08c2f-af74-4598-9ed5-1cea317786d2)
 
  -Pivot Table visualize important KPIs for rapid decision-making with slicers for interacive Visualization.
  
