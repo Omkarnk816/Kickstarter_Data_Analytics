@@ -3,20 +3,24 @@ A project for analyzing the Kickstarter crowdfunding data to a actionable insigh
 # Introduction:
 The Kickstarter raw(file) consists of crowdfunding projects that are posted on Kickstarter platform and also the datas are available on Kaggle.
  ## Data Cleaning
- ![image](https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/fcaa51c0-abae-4ce6-81e6-8deb0c462600)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
  -Implemented **filters** and **iferror** function to clean data that helped in replacing the errors with "str_value" to optimize the analysis.
  
  -**Handling Null** by mode values.
+ <p align="center">
+  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/0cf2450d-fc4b-40ac-b22f-6079f53270ce" />
+  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/c9c84b99-b7e8-4de5-ad1a-f00a992fcb9f" />
+</p>
 
-   ![null](https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/0cf2450d-fc4b-40ac-b22f-6079f53270ce)                                                                                                         ![Mode](https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/c9c84b99-b7e8-4de5-ad1a-f00a992fcb9f)
 
+   
  -Converting epoch time to default Date format(The formula: =(A1/86400)+25569),Removing unwanted attributes to reduce the data size.
  
  ![converted_date](https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/590a7759-304c-416d-9c45-062af814514a)
 
  ## Data Extract and Transform
-  ![image](https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/fcaa51c0-abae-4ce6-81e6-8deb0c462600)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
  
  -Utilized **Power Query** to extract and transform the data, then transferred the data to **Power Pivot** for further exploration and updation in dataset.
  
