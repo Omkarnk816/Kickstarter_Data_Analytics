@@ -25,6 +25,10 @@ The Kickstarter raw(file) consists of crowdfunding projects that are posted on K
  -Utilized **Power Query** to extract and transform the data, then transferred the data to **Power Pivot** for further exploration and updation in dataset.
  
  -Power Pivot manages **Data modelling** from different sources to make connections using **keys**.
+  <p align="center">
+  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/28ac9285-f6b3-4d21-9edd-645b2f90a371" />
+  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/e0c08c2f-af74-4598-9ed5-1cea317786d2" />
+</p>
  
 ![Query](https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/28ac9285-f6b3-4d21-9edd-645b2f90a371)  ![DATaMod](https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/e0c08c2f-af74-4598-9ed5-1cea317786d2)
 
