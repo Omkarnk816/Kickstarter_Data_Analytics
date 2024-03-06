@@ -3,7 +3,7 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project’s initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success.
 # Introduction:
-The Kickstarter raw(file) consists of crowdfunding projects that are posted on Kickstarter platform and also the datas are available on Kaggle.
+The Kickstarter [Raw_data](https://github.com/Omkarnk816/Kickstarter_Data_Analytics/tree/main/Raw_Data) consists of crowdfunding projects that are posted on Kickstarter platform and also the datas are available on Kaggle.
  ## Data Cleaning
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
