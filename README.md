@@ -45,10 +45,21 @@ The Kickstarter raw(file) consists of crowdfunding projects that are posted on K
   <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/fc07ff3a-1d98-4bb9-9f81-524806e9d92e" />
 </p>
 
+ * We instantly notice that most projects are put on Kickstarter for about 5 weeks and almost all projects are live between 1 and 9 weeks (so a bit more than 2 months).
+
+ * The proportion between successful and failed projects varies over time: Projects with a short run time (1–4 weeks) succeed relatively more often compared to projects that are launched with a medium to long run time (5–13      weeks). This insight could support the hypothesis that project are not more likely to succeed the longer they are live as one might have assumed beforehand 
  <p align="center">
   <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/cd2ec8be-016e-4ab7-91b9-898f9046c5de" />
 </p>
 
+* Projects with lower funding goals tend to have higher success rate.However,setting a realistic funding goal is crucial as projects with overly ambitious goals may struggle to attract backers.
+* The goal amounts above the $45,000 show a decline in success rate, and increase in cancellation and failure rates.
+
+   <p align="center">
+  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/31572411-1435-4c63-bf6b-5ec25c931ff4" />
+</p>
+
+* Categories with the performance arts are succeeding more than the Technology genre where the pledged amount is considered to be higher and backers demographics are more oriented towards the categories related to the arts,games rather then technology,film,Video etc. 
 
 
 
