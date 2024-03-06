@@ -59,7 +59,27 @@ The Kickstarter [Raw_data](https://github.com/Omkarnk816/Kickstarter_Data_Analyt
   <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/31572411-1435-4c63-bf6b-5ec25c931ff4" />
 </p>
 
-* Categories with the performance arts are succeeding more than the Technology genre where the pledged amount is considered to be higher and backers demographics are more oriented towards the categories related to the arts,games rather then technology,film,Video etc. 
+* Categories with the performance arts are succeeding more than the Technology genre where the pledged amount is considered to be higher and backers demographics are more oriented towards the categories related to the arts,games rather then technology,film,Video etc.
+
+
+   <p align="center">
+  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/ed9bb42a-d6d0-4012-8920-c77c7d14d8a4" />
+</p>
+
+* Let’s have a look at the relationship between a project’s goal and the actual amount pledged. It is quite obvious that a project is labelled as successful if
+ amount pledged ≥ goal and unsuccessful if amount pledged < goal.The following graph visualizes both the goal and amount pledged for each project and the individual state of the project
+* It can be seen that the accumulated amount of the total goal sharply increases in 2013 and has its peak in 2015 before it slowly decreases. On the other hand, the accumulated amount of pledges for each year steadily decreases but rather linearly. It actually decreased slightly from 2015 to 2017.More projects, more goals. However, this is just one component contributing to the increase in accumulated goals. Not only more projects launched over the years, but the average goal per project also increased over the years.
+
+## Dashboard Overview
+
+   <p align="center">
+  <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/b96366dd-6a88-47ed-9b1f-064e8a910781" />
+</p>
+
+
+
+
+
 
 
 
