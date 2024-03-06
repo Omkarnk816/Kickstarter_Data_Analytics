@@ -70,7 +70,7 @@ The Kickstarter [Raw_data](https://github.com/Omkarnk816/Kickstarter_Data_Analyt
  amount pledged ≥ goal and unsuccessful if amount pledged < goal.The following graph visualizes both the goal and amount pledged for each project and the individual state of the project
 * It can be seen that the accumulated amount of the total goal sharply increases in 2013 and has its peak in 2015 before it slowly decreases. On the other hand, the accumulated amount of pledges for each year steadily decreases but rather linearly. It actually decreased slightly from 2015 to 2017.More projects, more goals. However, this is just one component contributing to the increase in accumulated goals. Not only more projects launched over the years, but the average goal per project also increased over the years.
 
-## Dashboard Overview
+## Dashboard Overview [Link](https://github.com/Omkarnk816/Kickstarter_Data_Analytics/blob/main/InteractiveDashboard.xlsx)
 
    <p align="center">
   <img src="https://github.com/Omkarnk816/Kickstarter_Data_Analytics/assets/162085882/b96366dd-6a88-47ed-9b1f-064e8a910781" />
